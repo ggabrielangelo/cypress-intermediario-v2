@@ -6,7 +6,7 @@ Conheça a estrutura do curso intermediário de Cypress da Escola TAT no Udemy.
 
 Antes de começar, te apresento os pré-requisitos necessários antes de seguir adiante.
 
-> ⚠️ É de extrema importância que **todos** os requisitos sejam atendidos!
+> ⚠️  É de extrema importância que **todos** os requisitos sejam atendidos!
 
 ## Conhecendo a aplicação em teste
 
